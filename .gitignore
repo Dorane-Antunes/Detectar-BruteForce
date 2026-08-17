@@ -1,0 +1,15 @@
+# Arquivos de log e relatórios
+*.log
+reports/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.env
+venv/
+.venv/
+
+# Arquivos temporários
+*.tmp
