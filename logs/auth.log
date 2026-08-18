@@ -1,0 +1,12 @@
+Aug 15 22:00:00 server sshd[1234]: Failed password for root from 192.168.1.10 port 22
+Aug 15 22:00:01 server sshd[1531]: Failed password for root from 192.168.1.10 port 22
+Aug 15 22:00:02 server sshd[1234]: Failed password for root from 192.168.1.10 port 22
+Aug 15 22:00:05 server sshd[1234]: Failed password for root from 192.168.1.10 port 22
+Aug 15 22:00:06 server sshd[4531]: Failed password for root from 192.168.1.10 port 22
+Aug 15 22:00:08 server sshd[1234]: Failed password for root from 192.168.1.10 port 22
+Aug 15 22:00:10 server sshd[1234]: Failed password for root from 192.168.1.10 port 22
+Aug 15 22:00:11 server sshd[1234]: Failed password for root from 192.168.1.10 port 22
+Aug 15 22:00:12 server sshd[1234]: Failed password for root from 192.168.1.10 port 22
+Aug 15 22:01:00 server sshd[1234]: Failed password for root from 192.168.1.10 port 22
+Aug 15 22:15:10 server sshd[2345]: Failed password for admin from 192.168.1.20 port 22
+Aug 15 22:16:12 server sshd[2345]: Accepted password for admin from 192.168.1.20 port 22

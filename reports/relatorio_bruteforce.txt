@@ -1,0 +1,15 @@
+
+ === Relatório de Tentativas de Login Suspeitas ===
+[ALERTA] IP 192.168.1.10 teve 10 tentativas falhas.
+IP 192.168.1.10 teve 10 tentativas falhas.
+[INFO] Script executado em 2026-08-17 17:38:49
+
+ === Relatório de Tentativas de Login Suspeitas ===
+[ALERTA] IP 192.168.1.10 teve 10 tentativas falhas.
+IP 192.168.1.10 teve 10 tentativas falhas.
+[INFO] Script executado em 2026-08-17 17:39:05
+
+ === Relatório de Tentativas de Login Suspeitas ===
+[ALERTA] IP 192.168.1.10 teve 10 tentativas falhas.
+IP 192.168.1.10 teve 10 tentativas falhas.
+[INFO] Script executado em 2026-08-18 00:32:57
