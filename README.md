@@ -5,7 +5,7 @@ Script em Python para análise de logs de autenticação, detectando tentativas 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/projeto-bruteforce.git
+git clone https://github.com/Dorane-Antunes/Detectar-BruteForce.git
 cd projeto-bruteforce
 ```
 2. Execute o script passando o arquivo de log como argumento:
